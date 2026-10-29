@@ -25,4 +25,4 @@ Legal Name, Trade Name, Status, Registration Date, Cancellation Date, Principal 
 Tool chalane ke liye license key chahiye. Key ke liye sampark: **vkuttam531@gmail.com**
 
 ## Privacy
-Privacy policy: https://YOUR-GITHUB-USERNAME.github.io/gstin-bulk-checker/
+Privacy policy: https://vkuttam531-cmyk.github.io/gstin-bulk-checker/
